@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://ramemoryLin.github.io/tags/css/'>
 
-<link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="Tag: Css - AmoyCode">
+<link rel="stylesheet" href="/scss/style.min.d13607d2d29168bb5d1aef3c3ea33269af3eb60701f0f0fd218bc25517a3178d.css"><meta property='og:title' content="Tag: Css - AmoyCode">
 <meta property='og:description' content="厦门编码帮助你学习编程。">
 <meta property='og:url' content='https://ramemoryLin.github.io/tags/css/'>
 <meta property='og:site_name' content='AmoyCode'>
@@ -455,6 +455,11 @@
         2024 AmoyCode
     </section>
     
+    <section class="running-time">
+        本博客已稳定运行
+        <span id="runningdays" class="running-days"></span>
+    </section>
+
     <section class="powerby">
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.27.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
@@ -479,6 +484,27 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+<script>
+    (function(){var w=window;if(w.ChannelIO){return w.console.error("ChannelIO script included twice.");}var ch=function(){ch.c(arguments);};ch.q=[];ch.c=function(args){ch.q.push(args);};w.ChannelIO=ch;function l(){if(w.ChannelIOInitialized){return;}w.ChannelIOInitialized=true;var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.channel.io/plugin/ch-plugin-web.js";var x=document.getElementsByTagName("script")[0];if(x.parentNode){x.parentNode.insertBefore(s,x);}}if(document.readyState==="complete"){l();}else{w.addEventListener("DOMContentLoaded",l);w.addEventListener("load",l);}})();
+
+    ChannelIO('boot', {
+        "pluginKey": "929f4122-5341-45ef-b359-71884cb7d48b"
+    });
+</script>
+
+<script>
+    let s1 = '2024-10-24'; 
+    s1 = new Date(s1.replace(/-/g, "/"));
+    let s2 = new Date();
+    let timeDifference = s2.getTime() - s1.getTime();
+
+    let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+    let result = days + "天" + hours + "小时" + minutes + "分钟";
+    document.getElementById('runningdays').innerHTML = result;
 </script>
 
     </body>
