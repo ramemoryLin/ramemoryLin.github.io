@@ -77,7 +77,7 @@ params:
 
     comments:
         enabled: true
-        provider: utterances
+        provider: twikoo
 
         disqusjs:
             shortname:
@@ -126,8 +126,8 @@ params:
                 placeholder:
 
         twikoo:
-            envId:
-            region:
+            envId: https://amoycode.netlify.app/.netlify/functions/twikoo
+            region: AWS / Hong Kong (ap-east-1)
             path:
             lang:
 

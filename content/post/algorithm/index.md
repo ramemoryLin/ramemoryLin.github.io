@@ -1,11 +1,14 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
-date: 2020-09-09
-slug: test-chinese
+title: 排序算法
+description: 整理常见的排序算法
+date: 2024-09-09
+slug: algorithm
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - 信奥
+tags:
+  - 蓝桥杯
+  - 基础算法
 ---
 
 ## 正文测试

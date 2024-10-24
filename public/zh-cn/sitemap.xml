@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ramemoryLin.github.io/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,14 @@
                 href="https://ramemoryLin.github.io/"
                 />
   </url><url>
+    <loc>https://ramemoryLin.github.io/p/math-typesetting/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramemoryLin.github.io/post/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ramemoryLin.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,38 +34,8 @@
                 href="https://ramemoryLin.github.io/categories/"
                 />
   </url><url>
-    <loc>https://ramemoryLin.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/categories/%E4%BF%A1%E5%A5%A5/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/%E5%BD%92%E6%A1%A3/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ramemoryLin.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -71,44 +47,25 @@
                 href="https://ramemoryLin.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ramemoryLin.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramemoryLin.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramemoryLin.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/p/algorithm/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramemoryLin.github.io/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/categories/%E4%BF%A1%E5%A5%A5/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramemoryLin.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramemoryLin.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://ramemoryLin.github.io/%E5%BD%92%E6%A1%A3/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramemoryLin.github.io/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramemoryLin.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramemoryLin.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
