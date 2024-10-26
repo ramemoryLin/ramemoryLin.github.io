@@ -1,10 +1,10 @@
 +++
 author = "ramemory"
-title = "tcp-ip介绍(1)"
+title = "小学奥数"
 date = "2024-10-05"
-description = "tcp ip 基础知识"
+description = "小学奥数"
 categories = [
-    "网络"
+    "math"
 ]
 tags = [
     "tcp/ip",

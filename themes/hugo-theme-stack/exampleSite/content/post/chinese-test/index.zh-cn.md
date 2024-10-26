@@ -1,11 +1,11 @@
 ---
-title: Chinese Test
+title: Chinese algorithm
 description: 这是一个副标题
 date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
+    - algorithm
     - 测试
 ---
 

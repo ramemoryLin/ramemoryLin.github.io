@@ -4,7 +4,7 @@ title = "linux常见指令"
 date = "2024-10-09"
 description = "运维中常用的指令"
 categories = [
-    "操作系统"
+    "computer"
 ]
 tags = [
     "运维",

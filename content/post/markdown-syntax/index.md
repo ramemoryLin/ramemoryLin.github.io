@@ -1,13 +1,13 @@
 +++
 author = "ramemory"
-title = "分布式系统"
+title = "微观经济学"
 date = "2024-03-11"
-description = "分布式系统基础知识"
+description = "微观经济学介绍"
 tags = [
-    "分布式系统",
+    "微观经济学",
 ]
 categories = [
-    "架构",
+    "economic",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

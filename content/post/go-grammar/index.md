@@ -4,6 +4,8 @@ title: go语法入门(1)
 date: 2024-10-08
 description: go语言系列文章
 math: true
+categories: 
+ - computer
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.

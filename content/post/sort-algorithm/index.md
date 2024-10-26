@@ -4,7 +4,7 @@ title = "排序算法"
 date = "2024-10-05"
 description = "排序算法入门介绍"
 categories = [
-    "算法"
+    "algorithm"
 ]
 tags = [
     "排序算法",
